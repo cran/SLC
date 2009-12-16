@@ -1,2 +1,1 @@
-UseDynLib("SLC")
 export(slcestimates)

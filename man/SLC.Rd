@@ -16,7 +16,7 @@ slcestimates(info, n_a)
   \item{trendB }{slope change}
   \item{level }{level change}
 }
-\references{ Solanas, A. Manolov, R., & Onghena, P. (2009). Estimating slope and level change in single-case designs. Unpublished Manuscript. }
+\references{ Solanas, A. Manolov, R., & Onghena, P. (2010). Estimating slope and level change in single-case designs. Behavior Modification, 34, 195-218. }
 \examples{
 info <- array(c(3,4,2,5,6,7))
 n_a <- 3
