@@ -1,0 +1,2 @@
+UseDynLib("SLC")
+export(slcestimates)
